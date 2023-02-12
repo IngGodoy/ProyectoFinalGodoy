@@ -1,5 +1,0 @@
-@mixin flexBox ($dirrecion){
-    display: flex;
-    flex-direction: $dirrecion; //row -column "colocar en fila o columna"
-    align-items: center;
-}
